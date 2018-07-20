@@ -1,0 +1,46 @@
+{
+    "locations": [{
+            "id": 1,
+            "name": "Nashville North",
+            "address": "10101 Binary Court"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "314159 Pi Street"
+        }
+    ],
+    "dogs": [{
+            "id": 1,
+            "name": "Scout",
+            "locationId": 1,
+            "ownerId": 2
+        },
+        {
+            "id": 2,
+            "name": "Maya",
+            "locationId": 2,
+            "ownerId": 2
+        },
+        {
+            "id": 3,
+            "name": "Milkshake",
+            "locationId": 1,
+            "ownerId": 1
+        },
+        {
+            "id": 4,
+            "name": "Slinky",
+            "locationId": 2,
+            "ownerId": 1
+        }
+    ],
+    "owners": [{
+        "id": 1,
+        "name": "Frank Lane"
+    },
+    {
+        "id": 2,
+        "name": "Paul Ronald"
+    }]
+}
